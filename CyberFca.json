@@ -53,4 +53,6 @@
 			"Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
 		}
 	}
-}
+}"Admin": [
+  "7210"
+],
